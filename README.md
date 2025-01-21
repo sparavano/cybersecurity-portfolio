@@ -42,8 +42,8 @@ Soy abogado, contador y MBA en transición al mundo IT, con una gran pasión por
 ---
 
 ## Contacto
-- **LinkedIn**:[ [Tu perfil de LinkedIn](https://www.linkedin.com/)](https://www.linkedin.com/in/santiago-paravano-1772977a/)
-- **Substack**:[ [Tu blog de Substack](#)](https://substack.com/@santiagoparavano?utm_source=user-menu)
+- **LinkedIn**:[ [Tu perfil de LinkedIn](https://www.linkedin.com/)]
+- **Substack**:[ [Tu blog de Substack](#)]
 - **Correo electrónico**: sparavano@gmail.com
   
 
