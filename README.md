@@ -8,7 +8,7 @@ Soy abogado, contador y MBA con más de 20 años de experiencia en áreas de aud
 Mi formación incluye:
 - **Licenciatura en Ciberseguridad** (en curso) - Universidad FASTA.
 - **Posgrado en Inteligencia Artificial Generativa** - Universidad de Buenos Aires.
-- **Diplomatura en Ciberseguridad - Universidad Blas Pascal.
+- **Diplomatura en Ciberseguridad** - Universidad Blas Pascal.
 
 Mi objetivo profesional es proteger la información y los sistemas críticos a través de estrategias de ciberseguridad, análisis de vulnerabilidades y auditorías tecnológicas, aportando una perspectiva única gracias a mi experiencia previa en cumplimiento y regulación.
 
