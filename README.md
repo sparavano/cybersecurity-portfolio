@@ -1,63 +1,38 @@
-# Cybersecurity Portfolio
+# Cybersecurity & AI Portfolio
 
-¡Bienvenido a mi portafolio de ciberseguridad! Aquí encontrarás una muestra de mis habilidades, proyectos y conocimientos en el ámbito de la seguridad informática.
+¡Bienvenido a mi portafolio de ciberseguridad y tecnología!  
+Aquí comparto proyectos, aprendizajes y desafíos reales que reflejan mi transición profesional hacia la seguridad informática y la inteligencia artificial aplicada.
+
+---
 
 ## Sobre mí
-Soy abogado, contador y MBA con más de 20 años de experiencia en áreas de auditoría y cumplimiento normativo.Luego de la pandemia, decidí reconvertirme al mundo IT, impulsado por mi pasión por la tecnología y la ciberseguridad. Actualmente estoy consolidando una base sólida en seguridad informática, análisis de vulnerabilidades y administración de sistemas, con el objetivo de aportar soluciones efectivas para proteger datos y sistemas críticos.
 
-Mi formación incluye:
-- **Licenciatura en Ciberseguridad** (en curso) - Universidad FASTA.
-- **Posgrado en Inteligencia Artificial Generativa** - Universidad de Buenos Aires.
-- **Diplomatura en Ciberseguridad** - Universidad Blas Pascal.
+Soy abogado y contador, especializado en compliance, auditoría y regulación durante más de 20 años. Después de la pandemia, decidí reinventarme y sumergirme en el mundo IT, con foco en ciberseguridad y sistemas de información.  
+Hoy combino mi experiencia jurídica y regulatoria con formación técnica, aportando una perspectiva única sobre la protección de datos, la gestión de riesgos y la gobernanza digital.
 
-Mi objetivo profesional es proteger la información y los sistemas críticos a través de estrategias de ciberseguridad, análisis de vulnerabilidades y auditorías tecnológicas, aportando una perspectiva única gracias a mi experiencia previa en cumplimiento y regulación.
+Actualmente estudio la Licenciatura en Ciberseguridad (FASTA) y una Diplomatura en Ciberseguridad (UBP), además de un posgrado en IA Generativa (UBA). Mi objetivo es trabajar en la intersección entre tecnología, seguridad y cumplimiento normativo, ayudando a construir entornos digitales más seguros y responsables.
 
 ---
 
 ## Proyectos Destacados
+
 ### 1. Gestión de Permisos en Linux
-- **Descripción**: Configuración de permisos de archivos y directorios para garantizar la seguridad de los sistemas.
-- **Herramientas**: Linux Bash (`chmod`, `ls`, `chown`).
-- **Impacto**: Protección de datos sensibles mediante la correcta asignación de permisos.
-- [Ver detalles](proyectos/linux_permissions.md)
+- **Descripción:** Configuración y administración de permisos en sistemas Linux para fortalecer la protección de datos y recursos críticos.
+- **Herramientas:** Bash, chmod, chown, ls
+- **Impacto:** Seguridad reforzada y reducción de riesgos internos.
 
 ### 2. Análisis de Vulnerabilidades
-- **Descripción**: Identificación y mitigación de vulnerabilidades en sistemas pequeños.
-- **Herramientas**: Nessus, OpenVAS.
-- **Impacto**: Reducción del riesgo de exposición a amenazas mediante evaluaciones proactivas.
-- [Ver detalles](proyectos/vulnerabilities_analysis.md)
+- **Descripción:** Detección y mitigación de vulnerabilidades en entornos de prueba y pequeños sistemas empresariales.
+- **Herramientas:** Nessus, OpenVAS
+- **Impacto:** Disminución de la superficie de ataque y aumento de la resiliencia.
 
-### 3. Auditorías de Seguridad
-- **Descripción**: Evaluación de políticas de acceso, configuración y prácticas de seguridad en sistemas empresariales.
-- **Herramientas**: Wireshark, análisis manual.
-- **Impacto**: Mejora de controles de seguridad y cumplimiento normativo.
-- [Ver detalles](proyectos/security_audits.md)
+### 3. Auditorías de Seguridad IT
+- **Descripción:** Revisión integral de políticas de acceso, configuración de sistemas y cumplimiento de buenas prácticas en seguridad informática.
+- **Herramientas:** Wireshark, revisiones manuales
+- **Impacto:** Mejoras tangibles en los controles internos y la alineación regulatoria.
 
 ---
 
 ## Herramientas y Tecnologías
-- **Sistemas Operativos**: Linux (Ubuntu, Kali), Windows.
-- **Lenguajes de Programación**: Python, SQL.
-- **Herramientas de Seguridad**: Wireshark, Nessus, Metasploit, OpenVAS.
-- **Control de Versiones**: Git, GitHub.
-- **Otros**: Gestión de bases de datos relacionales (MySQL, PostgreSQL).
 
----
-
-## Certificaciones y Educación
-- **Licenciatura en Ciberseguridad** (en curso) - Universidad FASTA.
-- **Posgrado en Inteligencia Artificial Generativa** - UBA.
-- **Curso de Introducción a la Ciberseguridad**.
-- **Certificación en Linux Essentials**.
-
----
-
-## Contacto
-- **LinkedIn**: [Santiago Paravano](https://www.linkedin.com/in/santiago-paravano-1772977a/)
-- **Substack**: [Santiago Paravano - Substack](https://substack.com/@santiagoparavano?utm_source=user-menu)
-- **Correo electrónico**: [sparavano@gmail.com](mailto:sparavano@gmail.com)
-
----
-
-## Mensaje Final
-Gracias por visitar mi portafolio. Estoy abierto a nuevas oportunidades en ciberseguridad y tecnología. Si tienes alguna pregunta o deseas colaborar, no dudes en contactarme.
+- **Sistemas Operativos:** Linux (Ubuntu, Kali), Windows  
